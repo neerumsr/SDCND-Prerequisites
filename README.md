@@ -7,6 +7,9 @@ This is a compilation of the recommended prerequisites and resources for student
 
 ![Udacity Self-Driving Car](https://s3-us-west-1.amazonaws.com/udacity-content/images/shared/self-driving-car-engineer-nanodegree.png)
 
+Please note that, given lot of magic is done by respective Deep Learning Frameworks like Tensorflow / Caffe / Theano / CNTK ...etc, it is very important to understand the concepts and also what framework to use. 
+
+Titbit: Use of systems for Deep learning and inference needs to be thought out carefully to avoid running into higher error rate. 
 
 ---
 
